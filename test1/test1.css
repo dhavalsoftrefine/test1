@@ -1,0 +1,174 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    margin-bottom: 1%;
+}
+
+
+.top-line{
+    background-color: #aaa;
+    height: 20px;
+}
+
+.first-line{
+    background-color: #aaa;
+    margin: 3% 0px 0px 30%;
+    height: 3.5vh;
+    width: 40%;   
+}
+
+.big-box-1,
+.big-box-2{
+    height: 30vh;
+    background-color: #aaa;
+    /* display: inline-block; */
+    width:49%;
+    margin-top: 3%; 
+
+}
+
+.big-box-1{
+    float: left;
+}
+
+.big-box-2{
+    float: right;
+}
+
+.second-line{
+    clear: both;
+    height: 3.5vh;
+    background-color: #aaa;
+    width: 60%;
+    margin: 3% 0 0 20%;
+    display: inline-block;
+}
+
+.four-box{
+    display: inline-block;
+    /* background-color: aqua; */
+    width: 100%;
+    padding: 0 5%;
+}
+
+.small-box{
+    display: inline-block;
+    background-color: #aaa;
+    height: 12vh;
+    width: 20%;
+    margin: 2%;
+}
+
+.second-section-contaier{
+    margin-top: 1%;
+}
+
+.third-line{
+    clear: both;
+    height: 3.5vh;
+    background-color: #aaa;
+    width: 75%;
+    margin: 1% 0 0 13%;
+    display: inline-block;
+}
+
+.third-section{
+    background-color: #aaa;
+    width: 100%;
+    margin-top: 3%;
+    padding: 4% 5%;
+
+}
+
+.third-section-block{
+    width: 30%;
+    height: 25vh;
+    margin-left: 2%;
+    background-color: white;
+    display: inline-block;
+    padding: 2%;
+}
+
+.third-section-small-box,
+.third-section-big-box{
+    background-color: #aaa;
+    width: 90%;
+    margin: 5% 0 0 5%;
+}
+
+.third-section-small-box{
+    height:10%;
+}
+.third-section-big-box{
+    height:39%;
+}
+
+.fourth-section{
+    margin: 3% 25% 0 25%;
+    width: 50%;
+}
+
+.fourth-line{
+    margin: 0 25% 3% 25%;
+    width: 50%;
+    height: 3.5vh;
+    background-color: #aaa;
+}
+
+.fifth-line{
+    width: 100%;
+    height: 3.5vh;
+    background-color: #aaa;
+    margin-top: 2%;
+}
+
+.sixth-line{
+    width: 100%;
+    height: 12vh;
+    background-color: #aaa;
+    margin-top: 2%;
+}
+
+.seventh-line,
+.eighth-line{
+    width: 45%;
+    height: 3.5vh;
+    background-color: #aaa;
+    margin-top: 3%;
+}
+
+.seventh-line{
+    float: left;
+}
+
+.eighth-line{
+    float: right;
+}
+
+.fifth-section{
+    background-color: #aaa;
+    height: 15vh;
+    width: 100%;
+    margin-top: 15%;
+    display: inline-block;
+    padding: 2%;
+}
+
+.white-box-first,
+.white-box-second{
+    height: 98%;
+    width: 49%;
+    background-color: white;
+}
+
+.white-box-first{
+    float: left;
+}
+
+.white-box-second{
+    float: right;
+}
